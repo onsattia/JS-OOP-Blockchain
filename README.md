@@ -1,2 +1,2 @@
 # blockchain-JS-OOP
-A Small Blockchain exemple with JavaScript
+A Small Blockchain built with JavaScript
